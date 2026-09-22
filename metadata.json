@@ -1,0 +1,6 @@
+{
+  "name": "Locking 歷史與雙語對照館",
+  "description": "探索街舞 Locking (鎖舞) 的誕生背景、傳奇舞團、經典招式與重要編年史，提供中英文逐段對照與語音發音輔助。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
